@@ -44,5 +44,5 @@ O desenvolvimento deste projeto seguiu uma metodologia estruturada, incluindo as
     * F1-Score: 0.61
 O modelo final demonstrou um `Recall` relevante, o que é crucial para identificar o maior número possível de clientes que efetivamente irão cancelar.
 
-* **Variáveis com maior influência: Tipos de pagamento, a presença de parceiros e dependentes e o total de valor gasto, o que sugere que clientes mais fiéis tendem a ser antigos, com vínculos familiares, ticket médio elevado e métodos de pagamento automáticos. Este é o perfil que deve receber atenção especial em estratégias de fidelização!
+* **Variáveis com maior influência:** Tipos de pagamento, a presença de parceiros e dependentes e o total de valor gasto, o que sugere que clientes mais fiéis tendem a ser antigos, com vínculos familiares, ticket médio elevado e métodos de pagamento automáticos. Este é o perfil que deve receber atenção especial em estratégias de fidelização!
 
